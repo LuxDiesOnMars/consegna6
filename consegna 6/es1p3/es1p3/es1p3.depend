@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1577028767 source:c:\users\manue\desktop\es1p3\es1p3\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1577028767 c:\users\manue\desktop\es1p3\es1p3\lista.h
+
+1577028859 source:c:\users\manue\desktop\es1p3\es1p3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1577030254 source:c:\users\manue\desktop\consegna 6\es1p3\es1p3\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1577028767 c:\users\manue\desktop\consegna 6\es1p3\es1p3\lista.h
+
+1577028859 source:c:\users\manue\desktop\consegna 6\es1p3\es1p3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

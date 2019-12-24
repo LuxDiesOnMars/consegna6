@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577035811 source:c:\users\manue\desktop\consegna 6\es2p3\ep2p3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1577035470 source:c:\users\manue\desktop\consegna 6\es2p3\ep2p3\pila.c
+	"pila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1577035851 c:\users\manue\desktop\consegna 6\es2p3\ep2p3\pila.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\manue\desktop\consegna 6\es2p5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1577207851 source:c:\users\manue\desktop\consegna 6\es2p5\coda.c
+	"coda.h"
+	<stdio.h>
+	<stdlib.h>
+
+1577207502 c:\users\manue\desktop\consegna 6\es2p5\coda.h
+
